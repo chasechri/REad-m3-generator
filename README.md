@@ -1,18 +1,25 @@
-    #title
+#title
 
-    *[description](#description)
-    *[installation](#installation)
-    *[usage](#usage)
-    *[contribution](#contribution)
-    *[instructions](#instructions)
-    *[license](#license)
-    ##description
-    ##installation
-    ##usage
-    ##contribution
-    ##instructions
-    ##license
+_[description](#description)
+_[installation](#installation)
+_[usage](#usage)
+_[contribution](#contribution)
+_[instructions](#instructions)
+_[license](#license)
 
-    #Contact
-    * GitHub dev
-    * Email chase
+## description
+
+## installation
+
+## usage
+
+## contribution
+
+## instructions
+
+## license
+
+# Contact
+
+- GitHub dev
+- Email chase
