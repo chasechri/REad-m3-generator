@@ -1,18 +1,18 @@
-#title
+# title
 
-##description
+## description
 
-##installation
+## installation
 
-##usage
+## usage
 
-##contribution
+## contribution
 
-##instructions
+## instructions
 
-##license
+## license
 
-#Contact
+# Contact
 
 - GitHub: chasehchdieh@hdih
 - Email: chase
